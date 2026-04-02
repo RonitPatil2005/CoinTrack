@@ -1,8 +1,7 @@
 # 💰 CoinTrack – Finance Tracker App
 CoinTrack is a modern and responsive **finance management web application** built using React. It helps users track their **income and expenses**, manage their budget, and monitor their financial health in real time.
 
-## 🚀 Live Demo
-(You can add your deployed link here later)
+## 🚀 Live Demo = https://cointrack27.netlify.app/
 
 ## 📌 Features
 - ➕ Add income and expense transactions
